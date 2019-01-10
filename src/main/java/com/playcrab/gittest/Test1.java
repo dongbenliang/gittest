@@ -5,5 +5,6 @@ public class Test1 {
 		System.out.println("Test3");
 		System.out.println("b1修改");
 		System.out.println("master修改2");
+		System.out.println("master_b1修改2");
 	}
 }
